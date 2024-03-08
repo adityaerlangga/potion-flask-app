@@ -1,0 +1,4 @@
+Pillow
+ultralytics
+shutil
+pybase64
